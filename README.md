@@ -1,6 +1,6 @@
 # app_matriculas_python
 esta app nos ayudara a tener un mayor vontro de las matriculas de nuestros alumnos
-## que podras hacer con mi app
+## que podras hacer con mi app (casos de uso)
 - registrar alumnos
 - generrar fichas matriculas
 - mostrar la lista de todos los matriculados
